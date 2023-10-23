@@ -1,0 +1,17 @@
+
+.a1{
+    background-color: lightgreen;
+    text-decoration: none;
+    color: rgb(1, 116, 1);
+    border: solid rgb(1, 116, 1) ;
+    padding: 5px 15px;
+    border-radius: 3px;
+}
+.a2{
+    background-color: lightblue;
+    text-decoration: none;
+    color: rgb(40, 128, 158);
+    border: solid rgb(40, 128, 158) ;
+    padding: 5px 15px;
+    border-radius: 3px; 
+}
